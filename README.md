@@ -15,19 +15,34 @@ Currently sharpening my skills at the intersection of **Data Analytics**, **Data
 ---
 
 ### 🧰 Tech Stack
+ 
+**Languages & Databases**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+**Analytics & Visualization**
+ 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+ 
+**Libraries**
+ 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3c7ebf?style=for-the-badge&logo=python&logoColor=white)
+ 
+**AI & ML**
+ 
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-```python
-mohammad_zayed = {
-    "languages"   : ["Python", "SQL"],
-    "analytics"   : ["Power BI", "Tableau", "Excel"],
-    "libraries"   : ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "ai_ml"       : ["Agentic AI Tools", "RAG", "LLM Pipelines"],
-    "cloud"       : ["Cloud Technologies"],
-    "currently"   : "Exploring the full Data Science → AIML pipeline"
-}
-```
-
----
+**Cloud**
+ 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🚀 Featured Projects
 
